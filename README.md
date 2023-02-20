@@ -10,3 +10,5 @@ My name is Kaeden, and I am learning to code. You can find my GitHub Portfolio [
 - I ~~CANT~~ **CAN** do this. 
 
 - I just need to practice and practice.
+
+- **Failure is a stepping stone to _SUCCESS_**. 
