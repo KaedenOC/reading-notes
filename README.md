@@ -7,7 +7,7 @@ My name is Kaeden, and I am learning to code. You can find my GitHub Portfolio [
 
 > *Growth Mindset* is a way of thinking about things in a positive light. 
 
-Learn from your mistakes and keep pushing forward.
+> Learn from your mistakes and keep pushing forward.
 
 - I ~~CANT~~ **CAN** do this. 
 
@@ -15,5 +15,5 @@ Learn from your mistakes and keep pushing forward.
 
 - **Failure is a stepping stone to _SUCCESS_**. 
 
-![growthmindsetpicture](![image](https://user-images.githubusercontent.com/122385052/220195467-1e4d3b6d-3a53-46ce-b8f6-d07c3dbf7d1f.png)
+![growthmindsetpicture](https://user-images.githubusercontent.com/122385052/220195467-1e4d3b6d-3a53-46ce-b8f6-d07c3dbf7d1f.png)
 )
