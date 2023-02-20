@@ -5,11 +5,11 @@ My name is Kaeden, and I am learning to code. You can find my GitHub Portfolio [
 
  **Growth Mindset**
 
-> *Growth Mindset* is a way of thinking about things in a positive light. 
+> *Growth Mindset* is a way of thinking about things in a positive light.
 
 > Learn from your mistakes and keep pushing forward.
 
-- I ~~CANT~~ **CAN** do this. 
+- I ~~CANT~~ **CAN** do this.
 
 - I just need to practice and practice.
 
