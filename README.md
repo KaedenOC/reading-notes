@@ -13,6 +13,6 @@ My name is Kaeden, and I am learning to code. You can find my GitHub Portfolio [
 
 - I just need to practice and practice.
 
-- **Failure is a stepping stone to _SUCCESS_**. 
+- **Failure is a stepping stone to _SUCCESS_**.
 
 ![growthmindsetpicture](https://user-images.githubusercontent.com/122385052/220195467-1e4d3b6d-3a53-46ce-b8f6-d07c3dbf7d1f.png)
