@@ -1,10 +1,12 @@
 ## What are four important features to look for in a text editor?
+
 1. **Code Completion**.
 2. **Syntax Highlighting**.
 3. **Variety of Themes**.
 4. **Abundance of Extensions**
 
 ## What do the following commands do?
+
 ![pwd1](https://user-images.githubusercontent.com/122385052/220237227-8e039973-d660-4bed-969f-632298254192.png)
 **print working directory** - Tells you what your current or present working directory is.
 
