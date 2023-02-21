@@ -27,7 +27,8 @@ that you can use to add formatting elements to plaintext text documents.
 
 #### How do you create a link with Markdown?
 
-*A*: Click [HERE](https://github.com/KaedenOC) for my github portfolio.
+*A*: ![linkex](https://user-images.githubusercontent.com/122385052/220227283-d053c103-77ba-40fe-8a73-d29721f5dec8.png)
+ Click [HERE](https://github.com/KaedenOC) for my github portfolio.
 
 #### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
