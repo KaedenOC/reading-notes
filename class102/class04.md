@@ -22,3 +22,8 @@ HyperText Markup Language is the code that is used to structure a web page and i
 
 >Ex: < h1 > potato</ h1> (no spaces)
 
+## Giving HTML Elements Additional Information
+
+We can give HTML elements additional information by using **Attributes**. Attributes do not appear in the actual content.
+
+> Note: Attribute allows you to give the element a non-unique identifier that can be used to target it.
