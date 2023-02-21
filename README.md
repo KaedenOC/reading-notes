@@ -22,6 +22,26 @@ This is my personal website where you will find class notes on what I have learn
 - [Class07](class102/class07.md) -
 - [Class08](class102/class08.md) -
 
+### Code 201 Pages
+
+- [Class01](class201/class01.md) -
+- [Class02](class201/class02.md) -
+- [Class03](class201/class03.md) -
+- [Class04](class201/class04.md) -
+- [Class05](class201/class05.md) -
+- [Class06](class201/class06.md) -
+- [Class07](class201/class07.md) -
+- [Class08](class201/class08.md) -
+- [Class09](class201/class09.md) -
+- [Class10](class201/class10.md) -
+- [Class11](class201/class11.md) -
+- [Class12](class201/class12.md) -
+- [Class13](class201/class13.md) -
+- [Class14](class201/class14.md) -
+- [Class15](class201/class15.md) -
+
+
+
 ## Growth Mindset
 
 > *Growth Mindset* is a way of thinking about things in a positive light.
