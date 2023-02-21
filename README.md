@@ -11,16 +11,16 @@ This is my personal website where you will find class notes on what I have learn
 
 ## Table of Contents 🗺️
 
-### Code 102 Pages 
+### Code 102 Pages
 
-- [Class01](class01.md) - Markdown
-- [Class02](class02.md) - Code Editors/Command Line
-- [Class03](class03.md) -
-- [Class04](class04.md) -
-- [Class05](class05.md) -
-- [Class06](class06.md) -
-- [Class07](class07.md) -
-- [Class08](class08.md) -
+- [Class01](class102/class01.md) - Markdown
+- [Class02](class102/class02.md) - Code Editors/Command Line
+- [Class03](class102/class03.md) -
+- [Class04](class102/class04.md) -
+- [Class05](class102/class05.md) -
+- [Class06](class102/class06.md) -
+- [Class07](class102/class07.md) -
+- [Class08](class102/class08.md) -
 
 ## Growth Mindset
 
