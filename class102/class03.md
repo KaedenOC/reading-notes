@@ -20,13 +20,13 @@ Single File
 
 Track one file only by using the following format:
 
-git add filename
+**git add filename**
 
 All Files
 
 Track all files in a repository by using the following command:
 
-$ git add *
+**git add (asterisk)**
 > Note: After using these commands the files are tracked and staged for committing.
 
 ## Commit
@@ -34,11 +34,19 @@ $ git add *
 After staging one or multiple files, you should commit the changes and record what you did within the commit message:
 
 
-$ git commit -m “made change x,y,z”
+**git commit -m “made change x,y,z”**
 
 > Note: This step has committed changes for the file or files (you can have one commit message for multiple files, if applicable) to the HEAD.
 
 Committing All Changes
 
-$ git commit -a
+**git commit -a**
 > Note: This command commits a snapshot of all modifications to tracked files in the working directory.
+
+## Push Changes
+
+Push changes to a remote repository.
+
+**git push origin**
+
+> Note: For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
