@@ -22,7 +22,7 @@
 ## Whats Happening Here?
 
 ![whatshapp](https://user-images.githubusercontent.com/122385052/220239120-bff716f6-5739-42e6-a8eb-6c49c36124de.png)
-1. Using **change directory** to projects folder.
+1. Using **change directory** to "projects" folder.
 2. Using **make directory** to create a "new-project" folder.
 3. Using **touch** to create a new markdown file within the "new-project" folder.
 4. Using **change directory. .** to go back one directory.
