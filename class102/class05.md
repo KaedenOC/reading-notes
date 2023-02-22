@@ -63,3 +63,8 @@ An inline style may be used to apply a unique style for a single element.
 
 > Ex: (no spaces) < h1 style="color:blue;>< /h1>
 
+## Example CSS rule
+
+> Ex: Make all paragraph elements text color red.
+<br>p {color: red;
+}
