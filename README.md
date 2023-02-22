@@ -17,8 +17,8 @@ This is my personal website where you will find class notes on what I have learn
 - [Class02](class102/class02.md) - Code Editors/Command Line
 - [Class03](class102/class03.md) - Introduction To Git
 - [Class04](class102/class04.md) - HTML
-- [Class05](class102/class05.md) -
-- [Class06](class102/class06.md) -
+- [Class05](class102/class05.md) - Styling With CSS
+- [Class06](class102/class06.md) - Dynamic Pages With JavaScript
 - [Class07](class102/class07.md) -
 - [Class08](class102/class08.md) -
 
