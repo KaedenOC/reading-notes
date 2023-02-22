@@ -6,15 +6,15 @@ HyperText Markup Language is the code that is used to structure a web page and i
 
 ## HTML Element Structure
 
-1. **The Opening Tag** - The name of the element. This states where the element begins or starts to take effect.
+**The Opening Tag** - The name of the element. This states where the element begins or starts to take effect.
 
 >Ex: <> This is an opening tag.
 
-2. **The Content** - Text that describes the content.
+**The Content** - Text that describes the content.
 
 >Ex: potato
 
-3. **The Closing Tag** - This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends.
+**The Closing Tag** - This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends.
 
 >Ex: </> This is a closing tag.
 
