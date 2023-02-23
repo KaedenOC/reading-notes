@@ -12,8 +12,7 @@ Code is run in order from the first line in the file to the last line, unless th
 
 A JavaScript function is a block of code designed to perform a particular task. A JavaScript function is executed when "something" **calls** it.
 
-> Ex: function myFunction(p1, p2) {
-  return p1 * p2;
+> Ex: function myFunction(p1, p2) {return p1 * p2;}
 
 ### Function Syntax
 
@@ -38,3 +37,6 @@ The code inside the function will execute when something invokes or **calls** th
 - When it is invoked **called** from JavaScript code.
 - Automatically (self invoked).
 
+## Operators
+
+**Assigns** a value to a variable using (=).
