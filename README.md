@@ -24,21 +24,21 @@ This is my personal website where you will find class notes on what I have learn
 
 ### Code 201 Pages
 
-- [Class01](class201/class01.md) -
-- [Class02](class201/class02.md) -
-- [Class03](class201/class03.md) -
-- [Class04](class201/class04.md) -
-- [Class05](class201/class05.md) -
-- [Class06](class201/class06.md) -
-- [Class07](class201/class07.md) -
-- [Class08](class201/class08.md) -
-- [Class09](class201/class09.md) -
-- [Class10](class201/class10.md) -
-- [Class11](class201/class11.md) -
-- [Class12](class201/class12.md) -
-- [Class13](class201/class13.md) -
-- [Class14](class201/class14.md) -
-- [Class15](class201/class15.md) -
+- [Class01](class201/class01.md) - Developer Toolbelt
+- [Class02](class201/class02.md) - Introduction To Web Development
+- [Class03](class201/class03.md) - Lists, The Box Model, and Loops
+- [Class04](class201/class04.md) - Links, Layouts, and Functions
+- [Class05](class201/class05.md) - Images, Color, Text, and More Work With Functions
+- [Class06](class201/class06.md) - Domain Modeling, Intro to the DOM, and Object Literal Notation
+- [Class07](class201/class07.md) - HTML Tables and JS Constructor Functions
+- [Class08](class201/class08.md) - Layout with CSS
+- [Class09](class201/class09.md) -  Forms and Events
+- [Class10](class201/class10.md) - Debugging and Error Handling
+- [Class11](class201/class11.md) - Audio and Video in HTML; Domain Modeling Revisited
+- [Class12](class201/class12.md) - Canvas and ChartJS
+- [Class13](class201/class13.md) - Introduction to Persistence with Local Storage
+- [Class14](class201/class14.md) - Documentation, Project Selection, & Team Workflow
+- [Class15](class201/class15.md) - Course Recap & 301 Preview
 
 
 
