@@ -56,14 +56,14 @@ What are Variables?
 
 > Variables are containers for storing data (storing data values).
 
->Ex: x, y, and z, are variables, declared with the var keyword:<br>
+> Ex: x, y, and z, are variables, declared with the var keyword:<br>
 var x = 5;
 var y = 6;
 var z = x + y;
 
 We want to use Variables because they hold data values. These values can change meaning we can be dynamic.
 
-**String** = sequence of text. Enclose in single or double quotes. 
+**String** = sequence of text. Enclose in single or double quotes.
 
 > Ex: let myName = 'kaeden'; or let myName = "kaeden";
 
@@ -102,4 +102,24 @@ The *closing tag* same as opening tag but includes a forward slash before the na
 The elements that are commonly used in websites are:
 
 > header, navigation bar, main content, sidebar, and footer.
+
+## Metadata and SEO
+
+Metadata is found in the head of the document which is not displayed in the web browser.
+
+Metadata desriptions of content within the page can help with the pages SEO (Search Engine Optimization). These descriptions should include keywords from the web page.
+
+> Ex: < meta charset="utf-8" /> found in the head element of the page.
+
+## Designing A Website
+
+When designing a website we want to think about:
+
+- What we want plan to accomplish.
+- our goals.
+- what needs to be done, and in what order?
+
+*Project Ideation*
+
+> Note: It is considered good practice to draw out a Webframe once you have thought about what you want to accomplish with your website.
 
