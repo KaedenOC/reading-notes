@@ -71,3 +71,35 @@ We want to use Variables because they hold data values. These values can change 
 
 > Ex: Numbers do not have quotes. let myAge = 25;
 
+## Introduction To HTML
+
+**Attributes** - Give more information about elements.
+
+Attributes are followed by an equal sign.
+
+Should also have an attribute value after the equal sign that is wrapped in double quotes.
+
+> Ex: class=""
+
+### Anatomy of an HTML Element
+
+> opening tag, content, and closing tag
+
+The *opening tag* is the name of the element, and is wrapped in brackets.
+
+The *content* is everything inbetween the opening tag and closing tag.
+
+The *closing tag* same as opening tag but includes a forward slash before the name of the element. This is where the element ends.
+
+### Article Vs Section
+
+**Article** - Used for wrapping similar content.
+
+**Section** - Used more for grouping together a single part of a page.
+
+### Elements That Are Typically Found In A Webpage
+
+The elements that are commonly used in websites are:
+
+> header, navigation bar, main content, sidebar, and footer.
+
