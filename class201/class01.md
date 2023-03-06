@@ -43,3 +43,31 @@ Find the image you would like for your webpage by using Googles search engine.
 
 2. You can save the image, and/or copy the images web address.
 
+## Variables In JavaScript
+
+Ways to declare a JavaScript variable:
+
+- using **var**
+- using **let**
+- using **const**
+- using nothing
+
+What are Variables?
+
+> Variables are containers for storing data (storing data values).
+
+>Ex: x, y, and z, are variables, declared with the var keyword:<br>
+var x = 5;
+var y = 6;
+var z = x + y;
+
+We want to use Variables because they hold data values. These values can change meaning we can be dynamic.
+
+**String** = sequence of text. Enclose in single or double quotes. 
+
+> Ex: let myName = 'kaeden'; or let myName = "kaeden";
+
+**Number** = numbers dont have quotes.
+
+> Ex: Numbers do not have quotes. let myAge = 25;
+
