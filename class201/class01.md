@@ -123,3 +123,36 @@ When designing a website we want to think about:
 
 > Note: It is considered good practice to draw out a Webframe once you have thought about what you want to accomplish with your website.
 
+It is important to have a vision of what you want and how to get there.
+
+WHAT DO YOU WANT TO ACCOMPLISH?
+
+## Semantics
+
+Semantics refers to the meaning of the code. The meaning or purpose of what things do.
+
+An **h1** element, in most browsers, will be styled with a large font size to look like a heading.
+
+**span**  can get styled to look like an h1 element but does not share the semantic value that h1 has.
+
+It is important to use semantic tags in our HTML because:
+
+- of important keywords for SEO.
+- visually impaired can use screen readers to navigate the page.
+- its easier to find meaningful blocks of code compared to looking through divs.
+- of data population.
+- of proper element/component naming.
+
+## JavaScript
+
+We use JavaScript to build complex ineteractive websites, browser games, and to connect servers to websites and web applications.
+
+### How To Add JavaScript To The Page
+
+In able to add JavaScript to the HTML, we can use inline JavaScript or External.
+
+*Inline* - Like adding inline CSS but instead uses a **script** element.
+
+*External* - Similar to adding external CSS. Create a new js file (script.js), and then place into the HTML head.
+
+> Ex: < script src="script.js">< /script>
