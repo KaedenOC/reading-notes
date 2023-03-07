@@ -54,3 +54,26 @@ Operators are mathematical symbols that are used to produce a result between two
 
 **!==** - does not strictly equal to.
 
+### Solving A Real World Problem With A Funtion
+
+Find the miles per gallon of gas you have used.
+
+## Conditionals
+
+An **if** statement checks an **expression** and if it evaluates to **true**, then the code block will execute.
+
+**else if** - chain on extra choices/outcomes to the if else statement.
+
+## Comparison Operators
+
+**===** and **!==** - test if one value is identical to, or not identical to another.
+
+**<** and **>** - test if one value is less than or greater than the other.
+
+**<=** and **>=** - test if one value is less than or equal to, or greater than or equal to, another.
+
+## Logical Operator
+
+**&&** - AND. Chain together two or more expressions. All of them have to individually return true for the whole expression to return true.
+
+**||** - OR. One or more of these have to individually return true for the whole expression to return true.
