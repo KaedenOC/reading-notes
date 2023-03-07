@@ -76,4 +76,4 @@ An **if** statement checks an **expression** and if it evaluates to **true**, th
 
 **&&** - AND. Chain together two or more expressions. All of them have to individually return true for the whole expression to return true.
 
-|| - OR. One or more of these have to individually return true for the whole expression to return true.
+"||" - OR. One or more of these have to individually return true for the whole expression to return true.
