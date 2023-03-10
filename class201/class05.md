@@ -19,3 +19,28 @@ Captions and alt text have distinct roles. Captions benefit even people who can 
 
 The **color** property defines the foreground color of an HTML element's content and the **background-color** property defines the element's background color. These can be used on just about any element.
 
+- We can use CSS or JavaScript to change an elements color.
+
+- **Color Palletes** - Useful tool to pick base color and other colors to accompany it.
+
+### Font
+
+**Web safe fonts** - are known to be available on nearly all instances of the most used operating systems. Good idea to use these.
+
+**font-weight** - will set how bold the text will be.
+
+**font-size** -  length and size of font. Try to avoid setting the font size of container elements because the font size of an element is inherited from that elements parent element.
+
+> Types: px, em, rem
+
+- **1em** - is = to the font size set on the parent element of the current element.
+
+- **1rem** - is = to the size set on the root element of the doc not the parent.
+
+**font-style** - used to turn italic text on or off.
+
+> Types: normal, italic, oblique
+
+### Spacing
+
+**letter-spacing** and **word-spacing** allow you to set the spacing between letters and words in text.
