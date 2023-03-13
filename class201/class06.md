@@ -1,5 +1,7 @@
 # Problem Domain, Objects, and the DOM
 
+[JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+
 ## Object
 
 A collection of related data and/or functionality. These usually consist of several variables and functions (which are called properties and methods when they are inside objects).
@@ -36,6 +38,8 @@ The "this" keyword refers to the current object the code is being written inside
 > Ex: Questions 5. The term "this" is referring to the name value "spot", useful when creating more than one object from a single object definition.
 
 ## DOM
+
+[Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 **Document Object Model** - Data representation of the objects that comprise the structure and content of a document on the web. Programming interface for web documents.
 
