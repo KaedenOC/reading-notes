@@ -6,7 +6,7 @@
 
 A collection of related data and/or functionality. These usually consist of several variables and functions (which are called properties and methods when they are inside objects).
 
-> Note: Creating an object often begins with defining and initializing a variable.
+> Note: key/value pairs. Created with curly brackets. Creating an object often begins with defining and initializing a variable.
 
 ## Object Literal
 
@@ -16,6 +16,8 @@ List of value pairs inside curly brackets. The values can be properties and func
 
 Objects map strings to values in the same way that arrays map numbers to values.
 **Objects** are used to represent a "thing". person, a car, a building, a book, a character in a game etc. These are called properties that consist of a key and a value. **Arrays** we use when we want to create and store a list of multiple items in a single variable.
+
+> Note: 
 
 ## Dot, and Bracket Notation
 
