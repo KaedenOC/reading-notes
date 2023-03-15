@@ -25,3 +25,22 @@ The **main axis** is the one set by your *flex-direction* property. If that is *
 
 Flex items move as a group on the main axis. The cross axis runs in the other direction to the main axis.
 
+The children of our flex container become flex items as soon as their parent gets display: flex, so these initial values mean that we start seeing some flexbox behavior.
+
+## Accessibility
+
+Any properties that reorder the visial display away from how things are ordered in the html document can negatively impact accessibility. The *row-reverse* and *column-reverse* values are examples.
+
+[CSS Layout - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
+## Why Flexbox?
+
+Floats and positioning can work but are limiting.
+
+These exampls are considered difficult to achieve using floats and positioning.
+
+- Vertically centering a block of content inside its parent.
+- Making all the children of a container take up an equal amount of the available width/height, regardless of how much width/height is available.
+- Making all columns in a multiple-column layout adopt the same height even if they contain a different amount of content.
+
+I think Flexbox will be an important tool for many of my projects in the future. It seems incredibly useful for taking items of different sizes and returning the best layout for those items.
