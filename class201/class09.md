@@ -31,3 +31,16 @@ The bigger your form, the more you risk frustrating people and losing users. Kee
 
 [Introduction to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
+Events are things that happen in the system you are programming — the system produces (or "fires") a signal of some kind when an event occurs, and provides a mechanism by which an action can be automatically taken (that is, some code running) when the event occurs.
+
+### addEventListener
+
+Objects that can fire events have an addEventListener() method. 
+
+Will need to have the event handler and the event listener arguments???
+
+### Event Object
+
+Sometimes, inside an event handler function, you'll see a parameter specified with a name such as event, evt, or e.
+
+**Event Object** - automatically passed to event handlers to provide extra features and information. **target** property of the event object is always a reference to the element the event occured upon.
