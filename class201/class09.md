@@ -44,3 +44,17 @@ Will need to have the event handler and the event listener arguments???
 Sometimes, inside an event handler function, you'll see a parameter specified with a name such as event, evt, or e.
 
 **Event Object** - automatically passed to event handlers to provide extra features and information. **target** property of the event object is always a reference to the element the event occured upon.
+
+### Event Propagation
+
+Event propagation is a way to describe the “stack” of events that are fired in a web browser.
+
+[Explanation of Event Propagation](https://www.freecodecamp.org/news/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e/)
+
+### Event Bubbling
+
+How the browser handles events targeted at nested elements.
+
+### Event Capture
+
+ Alternative form of **event propagation** This is like event bubbling but the order is reversed: so instead of the event firing first on the innermost element targeted, and then on successively less nested elements, the event fires first on the least nested element, and then on successively more nested elements, until the target is reached.
