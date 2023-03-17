@@ -27,3 +27,8 @@ The JavaScript debugger allows you to watch the value of variables and set break
 
 > Note: **Chrome** - Open the Developer tools and then select the Sources tab.
 
+The debugger will help developers find and fix errors in their code. You can stop and inspect your code at certain points.
+
+**Breakpoint** - where you want to pause execution.
+
+**Call Stack** - shows you what code was executed to get to the current line.
