@@ -41,6 +41,23 @@ This is my personal website where you will find class notes on what I have learn
 - [Class15](class201/class15.md) - Course Recap & 301 Preview
 
 
+### Code 301 Pages
+
+- [Class01](class301/class01.md) - Introduction to React and Components
+- [Class02](class301/class02.md) - State and Props
+- [Class03](class301/class03.md) - Passing Functions as Props
+- [Class04](class301/class04.md) - React and Forms
+- [Class05](class301/class05.md) - Putting it all together
+- [Class06](class301/class06.md) - REST
+- [Class07](class301/class07.md) - NODE.JS
+- [Class08](class301/class08.md) - APIs
+- [Class09](class301/class09.md) - Functional Programming
+- [Class10](class301/class10.md) - In memory storage
+- [Class11](class301/class11.md) - MongoDB and Mongoose
+- [Class12](class301/class12.md) - CRUD
+- [Class13](class301/class13.md) - More CRUD
+- [Class14](class301/class14.md) - Diversity & Inclusion in the Tech Industry
+- [Class15](class301/class15.md) - Authentication
 
 ## Growth Mindset
 
