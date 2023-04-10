@@ -25,3 +25,11 @@ A small piece of code that fills a certain part of the user interface that you'r
 - **Encapsulated** - refers to the practice of hiding the internal details of a component from the outside world.
 
 - **Independent** - designed to have minimal dependencies on other components.
+
+### Advantages
+
+- **Ease of deployment** - it is easier to replace existing versions with no impact on the other components or the system as a whole.
+
+- **Reduced cost** - The use of third-party components allows you to spread the cost of development and maintenance.
+
+- **Ease of development** - allow the ability to implement well-known interfaces. Allowing development without impacting other parts of the system.
