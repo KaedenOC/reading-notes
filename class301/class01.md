@@ -33,3 +33,33 @@ A small piece of code that fills a certain part of the user interface that you'r
 - **Reduced cost** - The use of third-party components allows you to spread the cost of development and maintenance.
 
 - **Ease of development** - allow the ability to implement well-known interfaces. Allowing development without impacting other parts of the system.
+
+## Props
+
+### What Is Props?
+
+Props is a keyword which stands for properties and is being used for passing data from one component to another.
+
+- Data with Props are being passed one way from parent to child.
+
+- Props are read-only, data coming from a the parent child should not be changed by child components.
+
+- A Prop is an Object.
+
+### Interpolation
+
+Define our own attributes and assign values with interpolation.
+
+> Ex: ``` <ChildComponent someAttribute={value} anotherAttribute={value}/> ```
+
+### Using Props
+
+How to use Props in React.
+
+- Firstly, define an attribute and its value(data)
+
+- Pass it to child component(s) by using Props.
+
+- Render the Props Data.
+
+- Props can only be passed to components in one way.. that is (parent to child).
