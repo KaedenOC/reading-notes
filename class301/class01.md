@@ -36,6 +36,8 @@ A small piece of code that fills a certain part of the user interface that you'r
 
 ## Props
 
+[What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
+
 ### What Is Props?
 
 Props is a keyword which stands for properties and is being used for passing data from one component to another.
