@@ -65,3 +65,16 @@ How to use Props in React.
 - Render the Props Data.
 
 - Props can only be passed to components in one way.. that is (parent to child).
+
+
+### Other Resources:
+
+- [React Tutorial through 'Passing Data Through Props'](https://react.dev/learn/tutorial-tic-tac-toe)
+
+- [React Docs - Hello World](https://legacy.reactjs.org/docs/hello-world.html)
+
+- [React Docs - Introducing JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
+
+- [React Docs - Rendering Elements](https://legacy.reactjs.org/docs/rendering-elements.html)
+
+- [React Docs - Components and Props](https://legacy.reactjs.org/docs/components-and-props.html)
