@@ -25,3 +25,40 @@ Based off the diagram, I believe that 'render' happens first.
 
 ## React State and Props
 
+**props** - Props can be used to pass a wide variety of data types. Some are: 
+
+- Primitive data types
+
+- Objects
+
+- Arrays
+
+- Functions
+
+- JSX elements
+
+**state** - Refers to an object that holds the data that a component needs to manage and track over time.  State is mutable and can be changed over time, and when the state of a component changes, React will automatically re-render the component to reflect the updated state.
+
+### Difference Between State and Props
+
+- *state* is used inside the component and inside only, and *props* is used outside the component and is being passed in.
+
+- *state* will be used to manage component specific data that can change. Components utilizing state will maintain their own data and trigger re renders to reflect updated data to the UI.
+
+> user input, fetched data, or UI interactions.
+
+### Additional Resources:
+
+[React Docs - State and Lifecycle](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
+
+[React Docs - handling events](https://legacy.reactjs.org/docs/handling-events.html)
+
+[React Tutorial through ‘Developer Tools’](https://react.dev/learn/tutorial-tic-tac-toe)
+
+[React Bootstrap Documentation](https://react-bootstrap.github.io/)
+
+[Boootstrap Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
+
+[Bootstrap Shuffle - a class “sandbox”](https://bootstrapshuffle.com/classes)
+
+[Netlify](https://www.netlify.com/)
