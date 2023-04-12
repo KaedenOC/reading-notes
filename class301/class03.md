@@ -102,3 +102,24 @@ console.log(combinedObj);
 
 ## Passing Functions Between Components
 
+[How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+
+- In the video the developer start off by defining a function within the parent component to pass to its child component.
+
+- Increment passes in name from the object that will look like name: 'bob'.  Then need to iterate through the array, without modifying it, the developer uses the .map method to create a new array 'ppl'. The developer passes in 'p' into the map method for 'people' and checks if the name matches the name thats passed in and then increments the count. Then returns p. Then updates the state.
+
+- You pass a method from a parent component into a child component by defining the method in the parent component then pass it as a prop in the child component.
+
+- The child component invokes a method that was passed to it by a parent component by calling the method like in a regular javascript function.
+
+``` javascript
+
+this.props.increment();
+
+```
+
+### Additional Resources
+
+[React Tutorial through ‘Declaring a Winner’](https://react.dev/learn/tutorial-tic-tac-toe)
+
+[React Docs - Lifting State Up](https://legacy.reactjs.org/docs/lifting-state-up.html)
