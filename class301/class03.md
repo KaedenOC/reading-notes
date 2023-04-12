@@ -42,3 +42,63 @@ function NumberList(props) {
 
 - Best way to pick a key is to use a string that uniquely identifies a list item among its siblings. Most often you would use IDs from your data.
 
+[The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+
+## The Spread Operator
+
+Useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an array out into functions arguments.
+
+> Syntax: (...)
+
+### What Can Spread Do?
+
+- *Copying an Array*.
+
+``` javascript
+
+const myArray = [1, 2, 3, 4, 5];
+const copiedArray = [...myArray];
+console.log(copiedArray);
+
+```
+
+- *Concatenating or combining arrays.*
+
+``` javascript
+
+const array1 = [1, 2, 3];
+const array2 = [4, 5, 6];
+const combinedArray = [...array1, ...array2];
+console.log(combinedArray);
+
+```
+
+- Using Math functions.
+
+- Using an array as arguments.
+
+- *Adding an item to a list.*
+
+``` javascript
+
+const myArray = [1, 2, 3, 4, 5];
+const newItem = 6;
+const newArray = [...myArray, newItem];
+console.log(newArray);
+
+```
+
+- *Combining Objects.*
+
+``` javascript
+
+const obj1 = { name: 'Kaeden', age: 25 };
+const obj2 = { city: 'New York', country: 'USA' };
+
+const combinedObj = { ...obj1, ...obj2 };
+console.log(combinedObj);
+
+```
+
+## Passing Functions Between Components
+
