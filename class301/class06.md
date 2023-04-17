@@ -23,3 +23,8 @@ We need to be able to talk to all machines about all the stuff that's on all the
 - **PUT** - method or request used to update or replace an existing resource on a web server.
 
 - **PATCH** - method or request used to partially update an existing resource on a web server.
+
+
+## API's
+
+- **API** - Application Programming Interface - set of rules, conventions, and protocols that allow different software applications to interact with each other and share data and functionality.
