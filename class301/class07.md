@@ -38,3 +38,34 @@ Enginne that runs in Google Chrome, and other chrome based web browsers. It is r
 
 - Full-stack JavaScript Development
 
+## Pair Programming
+
+[6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+1. Greater efficiency
+
+2. Engaged collaboration
+
+3. Learning From Fellow Students
+
+4. Social skills
+
+5. Job interview readiness
+
+6. Work Environment Readiness
+
+### Most Beneficial To Me
+
+I have found that **"Engaged collaboration"**, **"Work Environment Readiness"**, and **"Learning From Fellow Students"** has been the most beneficial to me.
+
+### How Does It Work?
+
+Commonly involves two roles: the Driver and the Navigator. The **Driver** is the programmer who is typing and the only one whose hands are on the keyboard. The **Navigator** thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs.
+
+## Additional Resources
+
+[Geocoding API Docs](https://locationiq.com/)
+
+[Axios docs](https://www.npmjs.com/package/axios)
+
+[MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
