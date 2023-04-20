@@ -14,4 +14,32 @@
 
 - **Immutability** - Unchanging over time or unable to be changed. State cannot change after it’s created.
 
-- **Referral Transparency** - Property of a function that means the function can be replaced with its resulting value without changing the behavior of the program
+- **Referral Transparency** - Property of a function that means the function can be replaced with its resulting value without changing the behavior of the program.
+
+## Node.JS Cont.
+
+[Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
+
+- **Module** -  Can be a single file or a collection of files that contain related functionality. Reusable block of code.
+
+- **require()** - Import a module into a file.
+
+ ``` javascript 
+ let counter = function(arr) {
+  return 'there are ' + arr.length + ' elements in this array';
+}
+
+module.exports = counter;
+
+```
+
+'different file'
+
+``` javascript
+
+let counter = require('./count');
+console.log(counter(['shaun', 'crystal', 'ryu']));
+
+```
+
+- The exports are the variables, functions, or objects that the module makes available for other parts of the program to use.
