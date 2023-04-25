@@ -26,6 +26,8 @@
 
 ## Build With Node.js, Express, and MongoDB
 
+[Build A REST API With Node.js, Express, & MongoDB - Quick](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+
 - We need to pull our MongoDB database string out of our server and put it into our .env file for security reasons, as we don't want to expose sensitive information in our code.
 
 - **Middleware** is a function that sits between the client and the server and can modify the request or response as needed. It can also perform other tasks, such as logging or authentication.
