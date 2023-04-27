@@ -75,7 +75,7 @@ async function postBook(request, response, next) {
 
 async function deleteBook(request, response, next) {
   try {
-    app.delete('/books:bookID', deleteBook);
+    app.delete('/books/:bookID', deleteBook);   // '/books/:bookID'  <-- path param>
 
     let id = request.params.bookID;
 
@@ -89,6 +89,8 @@ async function deleteBook(request, response, next) {
     next(error);
   }
 }
+
+//thunderclient to test delete.. http://localhost:3001/books/(id of object goes here)
 
 
 
