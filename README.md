@@ -59,6 +59,44 @@ This is my personal website where you will find class notes on what I have learn
 - [Class14](class301/class14.md) - Diversity & Inclusion in the Tech Industry
 - [Class15](class301/class15.md) - Authentication
 
+### Code 401 Pages
+
+- [Class01](class401/class01.md) - Node Ecosystem
+- [Class02](class401/class02.md) - Express, NPM, TDD, CI/CD
+- [Class03](class401/class03.md) - Express REST API
+- [Class04](class401/class04.md) - Data Modeling
+- [Class05](class401/class05.md) - Linked Lists
+- [Class06](class401/class06.md) - Authentication
+- [Class07](class401/class07.md) - Bearer Authorization
+- [Class08](class401/class08.md) - Access Control (ACL)
+- [Class09](class401/class09.md) - Authorization/Authentication
+- [Class10](class401/class10.md) - Stacks and Queues
+- [Class11](class401/class11.md) - Event Driven Applications
+- [Class12](class401/class12.md) - Socket.io
+- [Class13](class401/class13.md) - Message Queues
+- [Class14](class401/class14.md) - Event Driven Architecture
+- [Class16](class401/class16.md) - AWS: Cloud Servers
+- [Class17](class401/class17.md) - AWS: S3 and Lambda
+- [Class18](class401/class18.md) - AWS: API, Dynamo and Lambda
+- [Class19](class401/class19.md) - AWS: Events
+- [Class26](class401/class26.md) - Component Based UI
+- [Class27](class401/class27.md) - useState() Hook
+- [Class28](class401/class28.md) - Component Lifecycle / useEffect Hook
+- [Class29](class401/class29.md) - Advanced State with Reducers
+- [Class30](class401/class30.md) - Hash Tables
+- [Class31](class401/class31.md) - Context API
+- [Class32](class401/class32.md) - Context API - Behaviors
+- [Class33](class401/class33.md) - Login and Auth
+- [Class34](class401/class34.md) - API Integration
+- [Class35](class401/class35.md) - Graphs
+- [Class36](class401/class36.md) - Application State with Redux
+- [Class37](class401/class37.md) - Redux - Combined Reducers
+- [Class38](class401/class38.md) - Redux - Asynchronous Actions
+- [Class39](class401/class39.md) - Redux - Additional Topics
+- [Class40](class401/class40.md) - Ethics in Tech, Open-Source Software Contribution
+- [Class41](class401/class41.md) - Gatsby, next.js, and other JS Frameworks
+- [Class43](class401/class43.md) - React Native
+
 ## Growth Mindset
 
 > *Growth Mindset* is a way of thinking about things in a positive light.
