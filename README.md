@@ -97,16 +97,4 @@ This is my personal website where you will find class notes on what I have learn
 - [Class41](class401/class41.md) - Gatsby, next.js, and other JS Frameworks
 - [Class43](class401/class43.md) - React Native
 
-## Growth Mindset
-
-> *Growth Mindset* is a way of thinking about things in a positive light.
-
-> Learn from your mistakes and keep pushing forward.
-
-- I ~~CANT~~ **CAN** do this.
-
-- I just need to practice and practice.
-
-- Failure is a stepping stone to *SUCCESS*.
-
-![growthmindsetpicture](https://user-images.githubusercontent.com/122385052/220195467-1e4d3b6d-3a53-46ce-b8f6-d07c3dbf7d1f.png)
+- [Growth Mindset](class401/thegrowthmindset.md)
