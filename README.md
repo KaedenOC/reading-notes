@@ -98,3 +98,4 @@ This is my personal website where you will find class notes on what I have learn
 - [Class43](class401/class43.md) - React Native
 - [Growth Mindset](class401/thegrowthmindset.md).
 - [Terminal Practice](class401/practiceinterminal.md).
+- [SQL Practice](class401/)
