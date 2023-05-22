@@ -26,4 +26,38 @@ Bcrypt is a widely used and trusted algorithm designed specifically for password
 
 [Basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)
 
+A simple authentication scheme used in HTTP to provide a basic level of access control for web resources. It involves sending a username and password as part of the request headers to authenticate a user's identity.
 
+- **Authorization Header** - `Authorization: Basic <base64-encoded-username:password>` used to carry the authentication credentials.
+
+- server receives the basic auth request, and decodes the Base64-encoded string to retrieve the username and password.
+
+## OWASP
+
+[OWASP auth cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+
+**Authentication** is the process of verifying the identity of a user or entity accessing a system or application. It ensures that only authorized individuals or entities can gain access to protected resources.
+
+- User provides their credentials, such as a username and password. Application verifies the credentials to determine if they are valid.
+
+- If credentials are valid, the user can access the application.
+
+- **HTTP Error Messaging** - errors that occur should respond with appropriate HTTP status codes.
+
+- *401 Unauthorized* - user's credentials are missing or invalid. It informs the client that authentication is required.
+
+- *403 Forbidden* - returned when the user's credentials are valid but they are not authorized to access the requested resource.
+
+- **HTML Error Messaging** - These messages should be clear and helpful, informing the user about the nature of the error and guiding them on how to resolve it.
+
+- These error messages can help improve the user experience and potential security vulnerabilities.
+
+## Bookmark and Review
+
+[bcrypt docs](https://www.npmjs.com/package/bcrypt)
+
+### Additional Questions
+
+I'm looking forward to learning more about Authentication. I remember touching on Auth0 a bit in 301, and would like to learn more.
+
+- "cryptographic hash and cypher algorithms" in the class README for us to be able to define. This sounds interesting.
