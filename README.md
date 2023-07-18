@@ -96,6 +96,7 @@ This is my personal website where you will find class notes on what I have learn
 - [Class40](class401/class40.md) - Ethics in Tech, Open-Source Software Contribution
 - [Class41](class401/class41.md) - Gatsby, next.js, and other JS Frameworks
 - [Class43](class401/class43.md) - React Native
+- [Class44](class401/class44.md) - Ethics
 - [Growth Mindset](class401/thegrowthmindset.md).
 - [Terminal Practice](class401/practiceinterminal.md).
 - [SQL Practice](class401/SQLpract.md).
